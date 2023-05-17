@@ -18,22 +18,55 @@ class MovieDetail extends StatelessWidget {
     }
     double height = MediaQuery.of(context).size.height;
     return Scaffold(
-        appBar: AppBar(
-          title: Text(movie.title),
+      appBar: AppBar(
+        title: Text(movie.title),
+      ),
+      body: Container(
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topCenter,
+            end: Alignment.bottomCenter,
+            colors: [
+              Colors.blue,
+              Colors.deepPurple
+            ], // Ubah warna gradient sesuai preferensi Anda
+          ),
         ),
-        body: SingleChildScrollView(
-            child: Center(
-                child: Column(
-          children: [
-            Container(
-                padding: EdgeInsets.all(16),
-                height: height / 1.5,
-                child: Image.network(path)),
-            Container(
-              child: Text(movie.overview),
-              padding: EdgeInsets.only(left: 16, right: 16),
-            ),
-          ],
-        ))));
+        child: SingleChildScrollView(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Container(
+                margin: EdgeInsets.symmetric(vertical: 50),
+                height: height / 1.4,
+                child: ClipRRect(
+                  borderRadius: BorderRadius.circular(20),
+                  child: Image.network(
+                    path,
+                    fit: BoxFit.cover,
+                  ),
+                ),
+              ),
+              Container(
+                margin: EdgeInsets.symmetric(horizontal: 200),
+                decoration: BoxDecoration(
+                  color: Colors.white.withOpacity(1),
+                  borderRadius: BorderRadius.circular(20),
+                ),
+                padding: EdgeInsets.all(30),
+                child: Text(
+                  movie.overview,
+                  style: TextStyle(
+                    fontSize: 16,
+                    color: Colors.black,
+                  ),
+                  textAlign: TextAlign.justify,
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
   }
 }
