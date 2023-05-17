@@ -1,4 +1,6 @@
 # flutter_moviedb
+![image](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/97369782-a4d2-4321-98b7-7848641179e1)
+![image](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/46cf82a6-c5d6-47c4-960d-7be4a0161ce4)
 
 A new Flutter project.
 
