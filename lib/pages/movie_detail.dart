@@ -48,7 +48,7 @@ class MovieDetail extends StatelessWidget {
                 ),
               ),
               Container(
-                margin: EdgeInsets.symmetric(horizontal: 400),
+                margin: EdgeInsets.symmetric(horizontal: 50),
                 decoration: BoxDecoration(
                   color: Colors.white.withOpacity(1),
                   borderRadius: BorderRadius.circular(20),
