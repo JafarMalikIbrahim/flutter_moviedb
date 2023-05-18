@@ -1,8 +1,10 @@
 # flutter_moviedb
 Tampilan Awal
+
 ![image](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/c9610b6f-9248-4b3a-ae3b-b477c69c0d5d)
 
 Tampilan Detail
+
 ![image](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/778da153-39db-4848-98fc-bad9857e45f2)
 ![image](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/182c33d7-d59a-419b-a856-1a4696fb4bbb)
 
