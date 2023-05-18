@@ -1,6 +1,11 @@
 # flutter_moviedb
-![image](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/97369782-a4d2-4321-98b7-7848641179e1)
-![image](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/46cf82a6-c5d6-47c4-960d-7be4a0161ce4)
+Tampilan Awal
+![image](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/c9610b6f-9248-4b3a-ae3b-b477c69c0d5d)
+
+Tampilan Detail
+![image](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/778da153-39db-4848-98fc-bad9857e45f2)
+![image](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/182c33d7-d59a-419b-a856-1a4696fb4bbb)
+
 
 A new Flutter project.
 
