@@ -37,7 +37,7 @@ class MovieDetail extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Container(
-                margin: EdgeInsets.symmetric(vertical: 50),
+                margin: EdgeInsets.symmetric(vertical: 20),
                 height: height / 1.4,
                 child: ClipRRect(
                   borderRadius: BorderRadius.circular(20),
