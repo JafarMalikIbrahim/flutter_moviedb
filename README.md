@@ -1,12 +1,14 @@
 # flutter_moviedb
 Tampilan Awal
 
-![image](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/c9610b6f-9248-4b3a-ae3b-b477c69c0d5d)
+![Screenshot 2023-05-18 115202](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/119c55de-61fd-4410-a754-8c8b9333b648)
+
 
 Tampilan Detail
 
-![image](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/778da153-39db-4848-98fc-bad9857e45f2)
-![image](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/182c33d7-d59a-419b-a856-1a4696fb4bbb)
+![Screenshot 2023-05-18 115416](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/ed679a82-c4c0-4b23-abee-cfba8165bf07)
+![Screenshot 2023-05-18 115434](https://github.com/JafarMalikIbrahim/flutter_moviedb/assets/92065895/3dc97b4e-a84f-46fe-b52c-d35048aaeab0)
+
 
 
 A new Flutter project.
